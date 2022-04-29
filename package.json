@@ -1,0 +1,27 @@
+{
+  "name": "twitter_sprint",
+  "version": "1.0.0",
+  "description": "development sprint example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micheldavrdz/twitter_sprint.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "sprint"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micheldavrdz/twitter_sprint/issues"
+  },
+  "homepage": "https://github.com/micheldavrdz/twitter_sprint#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
